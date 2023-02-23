@@ -3,7 +3,7 @@ The purpose of this project was to analyze election results from specific counti
 
 # Election Results
 * In total 369,711 votes were cast in the election.
-*Denver had the largest turnout of any individuaL county with 82% of the vote.
+*Denver had the largest turnout of any individual county with 82% of the vote.
 * Jefferson and Arapahpoe lagged considerably behind. 
 ###
 ![alt text](https://raw.githubusercontent.com/zackarymeadows/election_analysis/main/county%20results.png)
